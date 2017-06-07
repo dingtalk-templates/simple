@@ -1,6 +1,6 @@
 ## {{ name }}
 
-> {{ descriptio }}
+> {{ description }}
 
 ## Build Setup
 
